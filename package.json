@@ -1,7 +1,7 @@
 {
   "name": "ev-u2",
   "version": "0.1.0",
-  "homepage": "https://github.com/Rtaaweer/ev-devweb.git",
+  "homepage": "https://Rtaaweer.github.io/ev-devweb/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
