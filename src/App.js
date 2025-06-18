@@ -1,14 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h1 className="landing-title">Welcome - Landing Page</h1>
+        <p className="landing-subtitle">Your journey starts here</p>
         <a
           className="App-link"
           href="https://reactjs.org"
